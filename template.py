@@ -18,6 +18,7 @@ list_of_files=[
     f"src/{package_name}/exception.py",
     f"src/{package_name}/utils/__init__.py",
     f"src/{package_name}/utils/utils.py",
+    f"src/__init__.py",
     "notebooks/EDA.ipynb",
     "notebooks/research.ipynb",
     "notebooks/model_training.ipynb",
